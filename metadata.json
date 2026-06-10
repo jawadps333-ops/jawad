@@ -1,0 +1,6 @@
+{
+  "name": "Adil",
+  "description": "A 3D retro-style action shooter driving game where you play as Adil in a city filled with NPCs, cars, and purchasable houses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
